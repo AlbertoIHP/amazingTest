@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "iCook",
+   "icon": "./iCook.png",
+   "version": "1.0.0",
+   "slug": "iCookSluig",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.yourcompany.iCook"
+   },
+   "android": {
+     "package": "com.yourcompany.iCook"
+   }
+  }
+}
